@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Tumakuru Quantums** · Team ID `VTU-QFF-HC-0041` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Tumakuru Quantums)
+[⬆ Back to Top](#tumakuru-quantums)
 
 </div>
