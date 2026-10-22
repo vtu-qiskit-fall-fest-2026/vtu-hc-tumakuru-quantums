@@ -81,11 +81,11 @@ Describe your solution. Keep it concrete: the core idea, the user flow, and
 the quantum/ML technique you are applying.
 -->
 
-**Solution:** _In 2–3 sentences, describe what you built._
+**Solution:** _We propose a quantum-assisted smart water management system that analyzes rainfall patterns, water availability, and demand from agriculture and households to recommend efficient water allocation during normal and drought conditions. The system uses a classical optimization approach alongside a Qiskit-based quantum optimization model to explore resource allocation strategies and compare their performance under different climate scenarios._
 
-**Key idea:** _The one-line technical summary of your approach._
+**Key idea:** _Use quantum optimization, such as the Quantum Approximate Optimization Algorithm (QAOA), to explore water allocation strategies that balance competing demands while minimizing shortages and water wastage._
 
-**Why this works:** _How your approach addresses the problem statement._
+**Why this works:** _ By considering changing water availability and competing demands, the system helps identify balanced allocation strategies and prioritize essential needs during droughts. Comparing quantum-assisted results with classical optimization provides a practical way to evaluate the potential benefits and limitations of quantum computing for climate-resilient water management._
 
 ---
 
