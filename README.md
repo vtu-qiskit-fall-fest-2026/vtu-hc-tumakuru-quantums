@@ -66,9 +66,9 @@ who experiences it, and why does it matter. Link to the official problem
 statement from the brief if one applies.
 -->
 
-**Problem:** _Describe the problem in 2–3 sentences._
+**Problem:** _Quantum-Assisted Smart Water Management for Climate Resilience._
 
-**Why it matters:** _Explain the impact or opportunity._
+**Why it matters:** _Climate change has increased uncertainty in rainfall patterns, water availability, and drought conditions, creating challenges for efficient water resource management. Traditional water distribution methods may not adequately account for changing environmental conditions and competing demands from agriculture, households, and other sectors._
 
 **Track / Category:** _Online / Offline · Track 1 / Track 2 · <domain>_
 
